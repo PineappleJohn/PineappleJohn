@@ -3,3 +3,5 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pineapplejohn)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pineapplejohn)](https://github.com/anuraghazra/github-readme-stats)
+
+Im currently working on using other languages (Ex. Python, JS, Java, etc...)
