@@ -1,7 +1,5 @@
-<h1> Hi, I'm john! <h1/>
-  Here are my stats:
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pineapplejohn)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pineapplejohn)](https://github.com/anuraghazra/github-readme-stats)
-
-Im currently working on using other languages (Ex. Python, JS, Java, etc...)
+Hi, I'm John <br>
+Check out my site <a href="https://pineapplejohn.github.io">here</a><br> <br>
+Here are my stats: <br>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pineapplejohn)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pineapplejohn)](https://github.com/anuraghazra/github-readme-stats)
