@@ -21,10 +21,3 @@ Beginner: <br>
 
 [![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
-
-<br>
-Check out my site <a href="https://pineapplejohn.github.io">here</a><br> <br>
-Here are my stats: <br>
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pineapplejohn)](https://github.com/anuraghazra/github-readme-stats)(#) <br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pineapplejohn)](https://github.com/anuraghazra/github-readme-stats)(#)
